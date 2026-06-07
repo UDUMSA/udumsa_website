@@ -50,10 +50,10 @@ The structure of this project may vary depending on the current implementation.
 
 The exact stack may vary depending on project setup.
 
-Common frontend technologies include:
+The frontend technologies used include:
 
 - HTML, CSS, JavaScript / TypeScript
-- React / Next.js (if applicable)
+- React / Next.js (as applicable)
 - Tailwind CSS or other styling frameworks
 - API integration with UDUMSA backend services
 
