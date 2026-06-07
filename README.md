@@ -1,6 +1,6 @@
 # UDUMSA Website Frontend
 
-Frontend application for the official website of the Usmanu Danfodiyo University Medical Students' Association (UDUMSA).
+Frontend repository for the official website of the Usmanu Danfodiyo University Medical Students' Association (UDUMSA).
 
 ---
 
@@ -43,20 +43,6 @@ Depending on implementation, the frontend may include:
 ## Project Structure
 
 The structure of this project may vary depending on the current implementation.
-
-Typical frontend structure may include:
-
-```text
-src/
-├── components/
-├── pages/
-├── layouts/
-├── assets/
-├── styles/
-├── hooks/
-├── services/
-└── utils/
-```
 
 ---
 
@@ -197,7 +183,6 @@ docs: update README
 refactor: improve component structure
 style: improve homepage layout
 ```
-
 ---
 
 ## Maintainers
