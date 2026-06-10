@@ -188,7 +188,6 @@ style: improve homepage layout
 ## Maintainers
 
 UDUMSA Technology Team (UDUMSA TECH HUB)
-Usmanu Danfodiyo University Medical Students' Association (UDUMSA)
 
 ---
 
